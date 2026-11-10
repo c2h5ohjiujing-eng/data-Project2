@@ -1,0 +1,9 @@
+﻿depth,algorithm,order,cache,best_target,best_value,visited,expanded,leaves,cutoffs,pruned_children,cache_hits,cache_entries,median_us,min_us,max_us
+6,minimax,original,False,T6,5,1957,1237,720,0,0,0,0,4131.3,4021.6,7971.0
+6,minimax,original,True,T6,5,997,457,120,0,0,420,456,2405.6,2273.3,5099.1
+6,minimax,gain,False,T6,5,1957,1237,720,0,0,0,0,4828.4,4705.1,5418.7
+6,minimax,gain,True,T6,5,997,457,120,0,0,420,456,2690.7,2592.5,5910.5
+6,alphabeta,original,False,T6,5,1436,931,505,90,115,0,0,3239.7,3149.9,3726.6
+6,alphabeta,original,True,T6,5,921,487,157,65,90,348,415,2460.7,2341.4,3015.2
+6,alphabeta,gain,False,T6,5,409,285,124,94,147,0,0,1131.2,1097.2,1819.7
+6,alphabeta,gain,True,T6,5,341,221,73,85,138,65,202,1095.0,1035.5,1597.6

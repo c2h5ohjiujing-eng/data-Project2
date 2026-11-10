@@ -1,0 +1,13 @@
+﻿depth,algorithm,order,best_target,best_value,visited,expanded,leaves,cutoffs,pruned_children,cache_hits,cache_entries,median_us,min_us,max_us
+2,minimax,original,T2,-1,17,5,12,0,0,0,0,34.9,34.2,79.9
+2,minimax,reverse,T2,-1,17,5,12,0,0,0,0,35.9,34.2,72.6
+2,minimax,gain,T2,-1,17,5,12,0,0,0,0,37.8,36.8,66.1
+2,alphabeta,original,T2,-1,13,5,8,2,4,0,0,28.4,27.8,57.7
+2,alphabeta,reverse,T2,-1,15,5,10,1,2,0,0,32.9,32.4,59.7
+2,alphabeta,gain,T2,-1,13,5,8,2,4,0,0,32.4,31.6,39.1
+4,minimax,original,T3,3,65,41,24,0,0,0,0,139.3,130.6,200.8
+4,minimax,reverse,T3,3,65,41,24,0,0,0,0,141.9,139.0,240.7
+4,minimax,gain,T3,3,65,41,24,0,0,0,0,160.1,156.1,308.6
+4,alphabeta,original,T3,3,47,31,16,5,6,0,0,106.7,103.3,169.9
+4,alphabeta,reverse,T3,3,51,33,18,3,4,0,0,120.1,117.4,166.3
+4,alphabeta,gain,T3,3,43,29,14,7,8,0,0,118.5,113.5,247.7

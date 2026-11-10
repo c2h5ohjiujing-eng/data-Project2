@@ -1,0 +1,3 @@
+# Optional; only needed to regenerate the PDF, not to run the algorithms.
+reportlab>=4.0,<5
+pypdf>=4.0,<7

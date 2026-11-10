@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "test_methods": 29,
+  "random_cases": {
+    "mazes": 250,
+    "weighted_maps": 250,
+    "trees": 200,
+    "treasure_games": 40
+  },
+  "notes": "Each randomized case exercises multiple modes/orders/cache variants; test_methods is unittest methods, not case count.",
+  "official_examples_passed": true,
+  "python": "3.12.14",
+  "run_utc": "2026-11-08T15:10:05.732391+00:00"
+}

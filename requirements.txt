@@ -1,0 +1,2 @@
+# Running main.py, experiments.py and tests requires only Python >= 3.8.
+# The optional report generator uses tools/requirements-report.txt.
